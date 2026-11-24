@@ -1,0 +1,103 @@
+PYTHON (PROGRAMMING LANGUAGE)
+
+Python is a high-level, general-purpose programming language. It is known for
+its simple and clear syntax, which makes code easy to read and write. Python
+supports many styles of programming, including procedural, object-oriented,
+and functional programming.
+
+
+CONTENTS
+1. History
+2. Features
+3. Uses
+4. Popular Libraries and Frameworks
+5. Advantages and Limitations
+6. See Also
+
+
+1. HISTORY
+
+Python was created by Guido van Rossum, a Dutch programmer. He started working
+on it in the late 1980s, and the first public version was released in 1991.
+The name "Python" comes from the British comedy show "Monty Python's Flying
+Circus", not from the snake.
+
+Python 2.0 came out in 2000 and added new features such as list
+comprehensions. Python 3.0 was released in 2008. It fixed many design
+problems, but it was not fully compatible with Python 2. Python 2 reached its
+end of life in 2020, and today Python 3 is the standard version.
+
+
+2. FEATURES
+
+- Easy to read: Python uses indentation (spaces) to define blocks of code
+  instead of curly braces.
+- Interpreted: Code runs line by line, so there is no separate compile step
+  for the programmer.
+- Dynamically typed: You do not need to declare the type of a variable.
+- Large standard library: Python comes with many ready-made modules for files,
+  math, dates, networking, and more.
+- Cross-platform: The same Python code can run on Windows, macOS, and Linux.
+- Open source: Python is free to use and is developed by a large community.
+
+
+3. USES
+
+Python is used in many fields:
+
+- Web development (building websites and APIs)
+- Data science and data analysis
+- Machine learning and artificial intelligence
+- Automation and scripting
+- Game development
+- Scientific computing
+- Education (it is often the first language students learn)
+
+
+4. POPULAR LIBRARIES AND FRAMEWORKS
+
+Web:
+  Flask, Django, FastAPI
+
+Data and Science:
+  NumPy, Pandas, Matplotlib, SciPy
+
+Machine Learning and AI:
+  scikit-learn, TensorFlow, PyTorch
+
+Other:
+  Requests (HTTP), BeautifulSoup (web scraping), pytest (testing)
+
+
+5. ADVANTAGES AND LIMITATIONS
+
+Advantages:
+  - Beginner friendly and quick to learn
+  - Very large community and many learning resources
+  - Faster development time for most projects
+  - Strong support for data science and AI
+
+Limitations:
+  - Slower than compiled languages such as C or C++
+  - Not the best choice for mobile app development
+  - Uses more memory than some other languages
+
+
+A SIMPLE EXAMPLE
+
+    name = "World"
+    print("Hello, " + name + "!")
+
+This program prints: Hello, World!
+
+
+6. SEE ALSO
+
+- Java (programming language)
+- JavaScript
+- C++
+- Programming paradigm
+- Open-source software
+
+
+NOTE: This is a sample text file written for practice and demonstration.
